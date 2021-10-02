@@ -4,7 +4,8 @@
 ## Description
 Create a Progressive Web Application: Budget Tracker with offline functionality
 
-https://user-images.githubusercontent.com/80426878/122484874-7a58ab80-cf8a-11eb-82d4-b78b3ec402f6.mp4
+![2021-10-01 (4)](https://user-images.githubusercontent.com/80426878/135701739-80ba69d5-192b-4db4-bfc7-f1a43394d0d2.png)
+
 
 ## Table of Contents
 * [Description](#description)
